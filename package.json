@@ -1,0 +1,21 @@
+{
+  "name": "taro-to-react-loader",
+  "version": "0.0.1",
+  "description": "File for converting taro language to real executable loader.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "taro",
+    "react"
+  ],
+  "author": "rookie125",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/generator": "^7.13.9",
+    "@babel/parser": "^7.13.11",
+    "@babel/traverse": "^7.13.0",
+    "@babel/types": "^7.13.0"
+  }
+}
