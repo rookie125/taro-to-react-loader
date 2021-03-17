@@ -1,8 +1,4 @@
-<div align="center">
-  <a href="https://github.com/webpack/webpack">
-    <img width="500" height="auto" src="./src/images/logo.png">
-  </a>
-</div>
+<img width="500" height="auto" src="./src/images/logo.png">
 
 <!-- [![npm][npm]][npm-url]
 [![node][node]][node-url]
