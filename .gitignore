@@ -2,7 +2,8 @@ node_modules
 logs
 *.log
 npm-debug.log*
-*-lock.json
+*lock.json
+*.lock
 .eslintcache
 /coverage
 /dist
